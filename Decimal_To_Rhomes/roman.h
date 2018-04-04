@@ -6,7 +6,6 @@ class roman {
 private:
 	int decimal;
 	std::string romans;
-	std::pair <int, std::string>  sympol[13];
 public:
 	roman()
 	{
